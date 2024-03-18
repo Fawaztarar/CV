@@ -1,16 +1,16 @@
 <h1 align="right">Fawaz Tarar</h1>
 <p align="right">
   <a href="mailto:fawaztarar@gmail.com">
-    <img src="2024638_email_mail_message_new_sms_icon.png" alt="Email" height="20" />
+    <img src="2024638_email_mail_message_new_sms_icon.png" alt="Email" height="15" />
   </a> &nbsp;
   fawaztarar@gmail.com
   <br/>
   <a href="tel:+447599564000">
-    <img src="9023670_phone_call_fill_icon.png" alt="Phone" height="20" />
+    <img src="9023670_phone_call_fill_icon.png" alt="Phone" height="15" />
   </a> &nbsp;
   +44 (0) 75 99 564 000
   <br/>
-  <img src="352521_location_on_icon.png" alt="Location" height="20" />&nbsp;
+  <img src="352521_location_on_icon.png" alt="Location" height="15" />&nbsp;
   London, UK
 </p>
 
@@ -35,13 +35,13 @@ Explore my projects on:
 
 <p align="center">
   <a href="https://github.com/Fawaztarar">
-    <img src="github-mark.png" alt="GitHub" height="20" />
+    <img src="github-mark.png" alt="GitHub" height="25" />
   </a> &nbsp; &nbsp;
   <a href="http://www.linkedin.com/in/Fawaztarar">
-    <img src="LI-Logo.png" alt="LinkedIn" height="20" />
+    <img src="LI-Logo.png" alt="LinkedIn" height="25" />
   </a> &nbsp; &nbsp;
   <a href="https://www.youtube.com/@Fawaztarar">
-    <img src="yt_logo_rgb_dark.png" alt="YouTube" height="20" />
+    <img src="yt_logo_rgb_dark.png" alt="YouTube" height="25" />
   </a>
 </p>
 
