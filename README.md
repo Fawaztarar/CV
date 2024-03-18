@@ -17,12 +17,8 @@ This experience not only expanded my technical skills but also reinforced my abi
 
 Now, as I transition into software development, I'm excited to merge my broad professional experiences and skills with my new technical skills and analytic problem-solving skill, aiming to contribute meaningfully to the tech world.
 
-Explore my projects on [GitHub](https://github.com/Fawaztarar), [LinkedIn](http://www.linkedin.com/in/Fawaztarar), and [YouTube](https://www.youtube.com/@Fawaztarar)
-Explore my projects on:
 
-[<img src="github-mark.png" alt="GitHub" width="30" height="40"/>](https://github.com/Fawaztarar) &nbsp;
-[<img src="LI-Logo.png" alt="LinkedIn" width="30" height="40"/>](http://www.linkedin.com/in/Fawaztarar) &nbsp;
-[<img src="yt_logo_rgb_dark.png" alt="YouTube" width="30" height="40"/>](https://www.youtube.com/@Fawaztarar)
+Explore my projects on:
 
 <p align="center">
   <a href="https://github.com/Fawaztarar">
