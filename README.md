@@ -1,5 +1,18 @@
-## Fawaz Tarar 
-**Email:** fawaztarar@gmail.com | **Phone:** +44 (0) 75 99 564 000 | **Location:** London, UK 
+<h1 align="center">Fawaz Tarar</h1>
+<p align="right">
+  <a href="mailto:fawaztarar@gmail.com">
+    <img src="2024638_email_mail_message_new_sms_icon.png" alt="Email" height="20" />
+  </a> &nbsp;
+  fawaztarar@gmail.com
+  <br/>
+  <a href="tel:+447599564000">
+    <img src="9023670_phone_call_fill_icon.png" alt="Phone" height="20" />
+  </a> &nbsp;
+  +44 (0) 75 99 564 000
+  <br/>
+  <img src="352521_location_on_icon.png" alt="Location" height="20" />&nbsp;
+  London, UK
+</p>
 
 ---
 
