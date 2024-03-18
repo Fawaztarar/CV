@@ -20,10 +20,21 @@ Now, as I transition into software development, I'm excited to merge my broad pr
 Explore my projects on [GitHub](https://github.com/Fawaztarar), [LinkedIn](http://www.linkedin.com/in/Fawaztarar), and [YouTube](https://www.youtube.com/@Fawaztarar)
 Explore my projects on:
 
-[<img src="github-mark.png" alt="GitHub" width="30"/>](https://github.com/Fawaztarar) &nbsp;
-[<img src="LI-Logo.png" alt="LinkedIn" width="30"/>](http://www.linkedin.com/in/Fawaztarar) &nbsp;
-[<img src="yt_logo_rgb_dark.png" alt="YouTube" width="30"/>](https://www.youtube.com/@Fawaztarar)
+[<img src="github-mark.png" alt="GitHub" width="30" height="40"/>](https://github.com/Fawaztarar) &nbsp;
+[<img src="LI-Logo.png" alt="LinkedIn" width="30" height="40"/>](http://www.linkedin.com/in/Fawaztarar) &nbsp;
+[<img src="yt_logo_rgb_dark.png" alt="YouTube" width="30" height="40"/>](https://www.youtube.com/@Fawaztarar)
 
+<p align="center">
+  <a href="https://github.com/Fawaztarar">
+    <img src="github-mark.png" alt="GitHub" height="40" />
+  </a> &nbsp; &nbsp;
+  <a href="http://www.linkedin.com/in/Fawaztarar">
+    <img src="LI-Logo.png" alt="LinkedIn" height="40" />
+  </a> &nbsp; &nbsp;
+  <a href="https://www.youtube.com/@Fawaztarar">
+    <img src="yt_logo_rgb_dark.png" alt="YouTube" height="40" />
+  </a>
+</p>
 
 ---
 
