@@ -1,4 +1,4 @@
-<h1 align="center">Fawaz Tarar</h1>
+<h1 align="right">Fawaz Tarar</h1>
 <p align="right">
   <a href="mailto:fawaztarar@gmail.com">
     <img src="2024638_email_mail_message_new_sms_icon.png" alt="Email" height="20" />
@@ -35,13 +35,13 @@ Explore my projects on:
 
 <p align="center">
   <a href="https://github.com/Fawaztarar">
-    <img src="github-mark.png" alt="GitHub" height="40" />
+    <img src="github-mark.png" alt="GitHub" height="20" />
   </a> &nbsp; &nbsp;
   <a href="http://www.linkedin.com/in/Fawaztarar">
-    <img src="LI-Logo.png" alt="LinkedIn" height="40" />
+    <img src="LI-Logo.png" alt="LinkedIn" height="20" />
   </a> &nbsp; &nbsp;
   <a href="https://www.youtube.com/@Fawaztarar">
-    <img src="yt_logo_rgb_dark.png" alt="YouTube" height="40" />
+    <img src="yt_logo_rgb_dark.png" alt="YouTube" height="20" />
   </a>
 </p>
 
