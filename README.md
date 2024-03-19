@@ -45,7 +45,7 @@ Explore my projects on:
 ## Professional Experience
 
 ### Full Stack Software Engineer Trainee at Makers
-**October 2023 – March 2024**
+**[Makers Tech](https://makers.tech) October 2023 – March 2024**
 
 - Built full-stack and front-end applications individually and as part of teams, utilizing technologies such as JavaScript, React.js, Node.js, Express.js, Python, MongoDB, Mongoose, PostgreSQL, HTML, and CSS.
 - Developed a mobile application using Swift, extending web functionalities to iOS platforms.
