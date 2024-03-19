@@ -57,6 +57,8 @@ Explore my projects on:
 - Applied HTML and CSS in front-end development, improving the aesthetic and functionality of user interfaces.
 - Regularly took the lead in developing a team-oriented E-commerce web application using the MERN stack, showcasing strong leadership and full-stack development skills.
 - Participated in emotional intelligence workshops, focusing on key soft skills like communication, teamwork, empathy, and feedback, essential for a collaborative and effective work environment.
+- Utilized Excalidraw for planning, brainstorming, sketching, and creating diagrams, which facilitated clear communication of ideas and project vision among team members.
+- Streamlined project management with Trello, ensuring organized task tracking and milestone completion.
 
 
 ### Executive Officer | Work Coach
