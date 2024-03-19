@@ -58,7 +58,25 @@ Explore my projects on:
 - Regularly took the lead in developing a team-oriented E-commerce web application using the MERN stack, showcasing strong leadership and full-stack development skills.
 - Participated in emotional intelligence workshops, focusing on key soft skills like communication, teamwork, empathy, and feedback, essential for a collaborative and effective work environment.
 
+
+### Executive Officer | Work Coach
+**Department for Work and Pensions DWP, October 2020 – September 2021**
+
+- Delivered customer service and supported a diverse range of claimants with complex needs.
+- Managed claimant journeys by engaging with various DWP services to aid their progression towards employment.
+- Created tailored plans and ensured timely and accurate benefit disbursement.
+- Established trust and positive relationships through empathetic and skilled coaching.
+
+### Technical Sales Manager
+**Eclipse Global, The Clermont Hotel Charing Cross, London, August 2019 – March 2020**
+
+- Served as the primary contact for all AV-related requirements and inquiries.
+- Managed technical production ensuring effective operations in ballroom and meeting rooms.
+- Attended pre-event meetings with clients, managed bookings, and coordinated logistics.
+- Maintained strong relationships with the sales team, operations, and clients, contributing to a profitable AV operation.
+
 ---
+
 
 ## Projects
 
@@ -117,27 +135,22 @@ London, United Kingdom
 **MSc in Project Management**  
 London, United Kingdom  
 2018 - 2019  
-- Specialized in advanced project management techniques, including Agile and Scrum methodologies.  
-- Completed a capstone project on "The Impact of Agile Practices on Software Development Efficiency".
 
 ### NUCES – FAST Islamabad Campus
 **Master of Business Administration (MBA)**  
 Islamabad, Pakistan  
 2009 - 2011  
-- Focused on strategic management, finance, and marketing.  
-- Led a team project analyzing the market expansion strategies of tech startups.
+
 
 **Bachelor of Business Administration (BBA)**  
 2005 - 2009  
-- Concentrated on business fundamentals, organizational behavior, and operations management.  
-- Participated in an exchange program focusing on international business in Europe.
+
 
 ### The City School Capital Campus
 **Cambridge International AS & A Levels**  
 Islamabad, Pakistan  
 2003 - 2005  
-- Majored in Mathematics, Economics, and Computer Science.  
-- Vice President of the Student Council, organized community service initiatives and school events.
+
 
 
 
