@@ -11,19 +11,18 @@
 
 ---
 
-**Junior Software Engineer | Full Stack Developer | UI Developer | MERN | SwiftUI | Python | Junior Backend Developer | Frontend Developer | AI Developer**
+**Junior Software Engineer | Full Stack Software Developer **
 
 ---
 
 ## Professional Summary
 
-Driven by curiosity and a passion for growth, my career has spanned from Event Business Development and Project Management to becoming a Work Coach. This diverse journey has sharpened my skills in decision-making, communication, and embracing challenges.
+ Software engineer with roots in project management and a transformative stint as a coach, my career trajectory reflects a blend of structured strategy and empathetic guidance. My curiosity for technology and an unyielding commitment to continuous learning have been the catalysts propelling me towards software engineering. 
 
-Recently, my curiosity led me to the Makers Bootcamp, where I delved into full-stack software development, exploring the MERN stack and Python PostgreSQL Flask.
+This journey has allowed me to apply transferable skills such as strategic planning, effective communication, and adaptive problem-solving to the dynamic landscape of tech development. At Makers Bootcamp, I dove into the world of full-stack development, getting hands-on with the MERN stack, Python, PostgreSQL, and Flask, among other technologies. This rigorous training not only refined my technical skills but also honed my ability to thrive in collaborative settings, mirroring the agile and fast-paced environment of the tech industry. With a goal to make meaningful contributions to the tech sector, 
 
-This experience not only expanded my technical skills but also reinforced my ability to work collaboratively in tech environments.
+I am eager to leverage my unique background and newly acquired technical prowess. Whether it's developing intuitive software solutions or driving projects that merge technical innovation with user-centric design, I am ready to add value and perspective to the tech community. 
 
-Now, as I transition into software development, I'm excited to merge my broad professional experiences and skills with my new technical skills and analytic problem-solving skill, aiming to contribute meaningfully to the tech world.
 
 
 Explore my projects on:
@@ -39,6 +38,30 @@ Explore my projects on:
     <img src="yt_logo_rgb_dark.png" alt="YouTube" height="25" />
   </a>
 </p>
+
+---
+## Projects
+
+### [Boosky](https://github.com/Fawaztarar/Booksy-frontend)
+**E-commerce Web Application**
+
+Boosky offers a vast collection of books across various genres. Features include user authentication, shopping basket, secure checkout, and a responsive design for seamless browsing on any device.
+
+**Technologies:** MongoDB, Express.js, React, Node.js, Clerk, Stripe, CSS, HTML
+
+### [Acebook](https://github.com/Fawaztarar/acebook_MERN)
+**Social Networking Application**
+
+Inspired by Facebook, providing a platform for user connection and sharing.
+
+**Technologies:** MongoDB, Express.js, React, Node.js, SwiftUI, CSS
+
+### [MakersBnb](https://github.com/Fawaztarar/makers-007-engineering-project-1)
+**Property Listing Web Application**
+
+A platform allowing users to list and book properties.
+
+**Technologies:** Python, Flask, PostgreSQL, HTML, Bootstrap
 
 ---
 
@@ -64,65 +87,28 @@ Explore my projects on:
 ### Executive Officer | Work Coach
 **Department for Work and Pensions DWP, October 2020 – September 2021**
 
-- Delivered customer service and supported a diverse range of claimants with complex needs.
-- Managed claimant journeys by engaging with various DWP services to aid their progression towards employment.
-- Created tailored plans and ensured timely and accurate benefit disbursement.
-- Established trust and positive relationships through empathetic and skilled coaching.
+- Quality Service Delivery: Ensured high-quality service to individuals seeking employment, using a client-centered approach to optimize their experience and outcomes.
+- Client Support: Provided customized support to job seekers, tailoring services to individual needs for enhanced effectiveness.
+- Communication tailoring methods to individual needs and emphasizing the efficiency of digital tools. Ensured messages were purposeful and inclusive, fostering understanding and engagement. Communicated key information with positivity and respect, mindful of diverse perspectives.
+- Problem-Solving: Addressed complex and sensitive client situations with thoughtful problem-solving, guided by empathy and a detailed understanding of each case.
+- Stakeholder Collaboration: Coordinated with internal and external stakeholders to deliver integrated and seamless services, maximizing client benefits.
+- Digital Proficiency: Leveraged digital tools and platforms to enhance service delivery and client interactions, improving accessibility and efficiency.
+- Project Management: Utilised project management techniques to effectively manage client caseloads and service delivery, maintaining organized and impactful operations.
+  
+
 
 ### Technical Sales Manager
 **Eclipse Global, The Clermont Hotel Charing Cross, London, August 2019 – March 2020**
 
-- Served as the primary contact for all AV-related requirements and inquiries.
-- Managed technical production ensuring effective operations in ballroom and meeting rooms.
-- Attended pre-event meetings with clients, managed bookings, and coordinated logistics.
-- Maintained strong relationships with the sales team, operations, and clients, contributing to a profitable AV operation.
+= Client Engagement: Directly interacted with clients to precisely understand AV needs and craft solutions
+- Project Management: Led the planning, execution, and completion of AV event setups, ensuring alignment with client specifications and satisfaction.
+- Technical Proficiency: Utilized in-depth knowledge of AV equipment and software for efficient management, setup, and troubleshooting.
+- Problem Solving: Addressed complex technical challenges and client concerns with innovative and effective solutions.
+
 
 ---
 
 
-## Projects
-
-### Boosky
-**E-commerce Web Application**
-
-Booksy offers a vast collection of books across various genres. Features include user authentication, shopping basket, secure checkout, and a responsive design for seamless browsing on any device.
-
-**Technologies:** MongoDB, Express.js, React, Node.js, Clerk, Stripe, CSS, HTML
-
-### Acebook
-**Social Networking Application**
-
-Inspired by Facebook, providing a platform for user connection and sharing.
-
-**Technologies:** MongoDB, Express.js, React, Node.js, SwiftUI, CSS
-
-### MakersBnb
-**Property Listing Web Application**
-
-A platform allowing users to list and book properties.
-
-**Technologies:** Python, Flask, PostgreSQL, HTML, Bootstrap
-
----
-
-## Soft Skills & Behaviors
-
-- **Communication & Influencing:** Demonstrated through effective customer interactions, team collaborations, and client negotiations across different roles, whilst building strong relationships.
-- **Leadership & Teamwork:** Evident in my ability to lead projects, influencing decision-making, and work collaboratively within teams to achieve common goals, as seen in my roles at Makers, DWP, and Eclipse Global.
-- **Problem-Solving & Analytical Thinking:** My ability to tackle complex problems, analyze requirements, and devise effective solutions is evident across my experiences, particularly in software development and project management.
-- **Adaptability & Continuous Learning:** My career shows a consistent willingness to learn new skills, adapt to new environments, and tackle challenges, as seen in my transition from AV roles to work coach to software engineering.
-- **Empathy & Emotional Intelligence:** Displayed in my customer service and coaching roles, where understanding and addressing the needs of individuals were key to your success.
-- **Project Management & Organizational Skills:** Demonstrated through my ability to manage timelines, resources, and stakeholder expectations in various projects, ensuring successful outcomes.
-
----
-
-## Certifications
-
-**Strategic Management and Leadership (Level 7)**
-
-Chartered Management Institute, United Kingdom, September 2019
-
----
 
 ## Educational Qualifications
 
