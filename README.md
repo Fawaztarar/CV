@@ -9,9 +9,9 @@
   <img src="352521_location_on_icon.png" alt="Location" height="20" /> London, UK
 </p>
 
----
 
-**Junior Software Engineer | Full Stack Software Developer **
+
+** Junior Software Engineer | Full Stack Software Developer **
 
 ---
 
