@@ -17,15 +17,16 @@
 
 ## Professional Summary
 
- Software engineer with roots in project management and a transformative stint as a coach, my career trajectory reflects a blend of structured strategy and empathetic guidance. My curiosity for technology and an unyielding commitment to continuous learning have been the catalysts propelling me towards software engineering. 
+ Junior software engineer with experience in AV technical sales, project management, and coaching. My interest in technology and commitment to continuous learning led me to software development.
+ 
+At Makers Bootcamp, I learned full-stack development using the MERN stack, Python, PostgreSQL, SwiftUI, and more. This intense training improved my technical skills and teamwork, preparing me for the fast-paced tech industry.
 
-This journey has allowed me to apply transferable skills such as strategic planning, effective communication, and adaptive problem-solving to the dynamic landscape of tech development. At Makers Bootcamp, I dove into the world of full-stack development, getting hands-on with the MERN stack, Python, PostgreSQL, and Flask, among other technologies. This rigorous training not only refined my technical skills but also honed my ability to thrive in collaborative settings, mirroring the agile and fast-paced environment of the tech industry. With a goal to make meaningful contributions to the tech sector, 
-
-I am eager to leverage my unique background and newly acquired technical prowess. Whether it's developing intuitive software solutions or driving projects that merge technical innovation with user-centric design, I am ready to add value and perspective to the tech community. 
+I'm excited to use my unique background and new technical skills. Whether it's creating user-friendly software or leading innovative projects, I'm ready to contribute to the tech community.
 
 
 
-Explore my projects on:
+
+Let's connect and explore possibilities:
 
 <p align="center">
   <a href="https://github.com/Fawaztarar">
