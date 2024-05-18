@@ -117,28 +117,22 @@ A platform allowing users to list and book properties.
 **Full Stack Software Engineer**  
 London, United Kingdom  
 2023 - 2024  
-- Intensive bootcamp covering full-stack development, including the MERN stack and Python PostgreSQL Flask.  
-- Developed a strong foundation in software engineering principles, test-driven development, and collaborative project work.
 
 ### BPP University
 **MSc in Project Management**  
 London, United Kingdom  
-2018 - 2019  
 
 ### NUCES – FAST Islamabad Campus
 **Master of Business Administration (MBA)**  
 Islamabad, Pakistan  
-2009 - 2011  
-
-
+  
 **Bachelor of Business Administration (BBA)**  
-2005 - 2009  
-
+ Islamabad, Pakistan  
 
 ### The City School Capital Campus
 **Cambridge International AS & A Levels**  
 Islamabad, Pakistan  
-2003 - 2005  
+
 
 
 
