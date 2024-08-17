@@ -1,9 +1,5 @@
 <h2 align="right">Fawaz Tarar</h2>
-<h4 align="right">Sodtware Engineer</h4>
-<a align="right" href="http://www.linkedin.com/in/Fawaztarar">
-    <img src="LI-Logo.png" alt="LinkedIn" height="25" />
-  </a> &nbsp; &nbsp;
-  
+<h4 align="right">Software Engineer</h4>  
 <p align="right">
   <a href="mailto:fawaztarar@gmail.com">
     <img src="2024638_email_mail_message_new_sms_icon.png" alt="Email" height="20" /> fawaztarar@gmail.com
