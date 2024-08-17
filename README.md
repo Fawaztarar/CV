@@ -11,22 +11,15 @@
 
 
 
-** Junior Software Engineer | Full Stack Software Developer **
+** Software Developer **
 
 ---
 
-## Professional Summary
+## 
 
- Junior software engineer with experience in AV technical sales, project management, and coaching. My interest in technology and commitment to continuous learning led me to software development.
- 
-At Makers Bootcamp, I learned full-stack development using the MERN stack, Python, PostgreSQL, SwiftUI, and more. This intense training improved my technical skills and teamwork, preparing me for the fast-paced tech industry.
-
-I'm excited to use my unique background and new technical skills. Whether it's creating user-friendly software or leading innovative projects, I'm ready to contribute to the tech community.
+I am an ambitious Makers graduate with a strong foundation in the MERN stack, Python, and SwiftUI, complemented by hands-on experience in full-stack development. My curiosity, creativity, and commitment to continuous learning led me to pursue a career in Software Engineering. With a background in client-facing roles, I have developed good skills in needs assessment, communication, teamwork, and problem-solving. I am eager to bring these strengths to your tech team.
 
 
-
-
-Let's connect and explore possibilities:
 
 <p align="center">
   <a href="https://github.com/Fawaztarar">
@@ -35,13 +28,12 @@ Let's connect and explore possibilities:
   <a href="http://www.linkedin.com/in/Fawaztarar">
     <img src="LI-Logo.png" alt="LinkedIn" height="25" />
   </a> &nbsp; &nbsp;
-  <a href="https://www.youtube.com/@Fawaztarar">
-    <img src="yt_logo_rgb_dark.png" alt="YouTube" height="25" />
-  </a>
+  
 </p>
 
 ---
 ## Projects
+
 
 ### [Boosky](https://github.com/Fawaztarar/Booksy-frontend)
 **E-commerce Web Application**
@@ -49,6 +41,13 @@ Let's connect and explore possibilities:
 Boosky offers a vast collection of books across various genres. Features include user authentication, shopping basket, secure checkout, and a responsive design for seamless browsing on any device.
 
 **Technologies:** MongoDB, Express.js, React, Node.js, Clerk, Stripe, CSS, HTML
+
+### [Tarar To Do]([https://github.com/Fawaztarar/makers-007-engineering-project-1](https://github.com/Fawaztarar/SwiftUI_ToDoListApp))
+**Tarar To Do Manager**
+
+iOS app for managing daily tasks, available on App Store
+
+**Technologies:**  SwiftUI, Firebase, Firestore 
 
 ### [Acebook](https://github.com/Fawaztarar/acebook_MERN)
 **Social Networking Application**
@@ -81,30 +80,27 @@ A platform allowing users to list and book properties.
 - Applied HTML and CSS in front-end development, improving the aesthetic and functionality of user interfaces.
 - Regularly took the lead in developing a team-oriented E-commerce web application using the MERN stack, showcasing strong leadership and full-stack development skills.
 - Participated in emotional intelligence workshops, focusing on key soft skills like communication, teamwork, empathy, and feedback, essential for a collaborative and effective work environment.
-- Utilized Excalidraw for planning, brainstorming, sketching, and creating diagrams, which facilitated clear communication of ideas and project vision among team members.
+- Utilized Excalidraw for planning, brainstorming, sketching, and creating diagrams, facilitated clear communication of ideas and project vision among team members.
 - Streamlined project management with Trello, ensuring organized task tracking and milestone completion.
 
 
 ### Executive Officer | Work Coach
 **Department for Work and Pensions DWP, October 2020 – September 2021**
 
-- Quality Service Delivery: Ensured high-quality service to individuals seeking employment, using a client-centered approach to optimize their experience and outcomes.
-- Client Support: Provided customized support to job seekers, tailoring services to individual needs for enhanced effectiveness.
-- Communication tailoring methods to individual needs and emphasizing the efficiency of digital tools. Ensured messages were purposeful and inclusive, fostering understanding and engagement. Communicated key information with positivity and respect, mindful of diverse perspectives.
-- Problem-Solving: Addressed complex and sensitive client situations with thoughtful problem-solving, guided by empathy and a detailed understanding of each case.
-- Stakeholder Collaboration: Coordinated with internal and external stakeholders to deliver integrated and seamless services, maximizing client benefits.
-- Digital Proficiency: Leveraged digital tools and platforms to enhance service delivery and client interactions, improving accessibility and efficiency.
-- Project Management: Utilised project management techniques to effectively manage client caseloads and service delivery, maintaining organized and impactful operations.
+- Client-Centered Service Delivery: Successfully managed a caseload of over 250 clients by evaluating individual circumstances, identifying employment barriers, and supporting the creation of personalised action plans, leading to improved job prospects and access to essential resources.
+- Effective Communication: Facilitated clear, accessible, and empathetic communication across face-to-face, phone, and digital channels, which built trust and engagement with a diverse claimant base, ensuring their needs were understood and effectively addressed.
+- Problem-Solving: Analyzed data from multiple sources to identify issues and made informed decisions that improved many clients outcomes
+- Stakeholder Collaboration and Teamwork: Successfully facilitated client referrals to various courses, training programs, and certifications by collaborating with internal and external organizations, significantly enhanced client development and employability.
+
   
 
 
 ### Technical Sales Manager
 **Eclipse Global, The Clermont Hotel Charing Cross, London, August 2019 – March 2020**
 
-= Client Engagement: Directly interacted with clients to precisely understand AV needs and craft solutions
-- Project Management: Led the planning, execution, and completion of AV event setups, ensuring alignment with client specifications and satisfaction.
-- Technical Proficiency: Utilized in-depth knowledge of AV equipment and software for efficient management, setup, and troubleshooting.
-- Problem Solving: Addressed complex technical challenges and client concerns with innovative and effective solutions.
+- Client Engagement: Developed strong relationships with clients by understanding their Audio-Visual needs and delivering tailored solutions that met their expectations.
+- Project Management: Successfully led the planning and execution of AV event setups, demonstrating the ability to manage projects from conception through to delivery.
+- Problem Solving: Addressed and resolved technical challenges and client concerns, ensuring that events were executed flawlessly and clients were satisfied.
 
 
 ---
@@ -113,19 +109,12 @@ A platform allowing users to list and book properties.
 
 ## Educational Qualifications
 
-### Makers Coding Bootcamp
-**Full Stack Software Engineer**  
-London, United Kingdom  
-2023 - 2024  
 
 ### BPP University
-**MSc in Project Management**  
+**MSc Project Management**  
 London, United Kingdom  
 
-### NUCES – FAST Islamabad Campus
-**Master of Business Administration (MBA)**  
-Islamabad, Pakistan  
-  
+
 **Bachelor of Business Administration (BBA)**  
  Islamabad, Pakistan  
 
