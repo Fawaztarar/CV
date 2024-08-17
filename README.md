@@ -1,4 +1,9 @@
-<h1 align="right">Fawaz Tarar</h1>
+<h2 align="right">Fawaz Tarar</h2>
+<h2 align="right">Sodtware Engineer</h2>
+<a href="http://www.linkedin.com/in/Fawaztarar">
+    <img src="LI-Logo.png" alt="LinkedIn" height="25" />
+  </a> &nbsp; &nbsp;
+  
 <p align="right">
   <a href="mailto:fawaztarar@gmail.com">
     <img src="2024638_email_mail_message_new_sms_icon.png" alt="Email" height="20" /> fawaztarar@gmail.com
@@ -11,25 +16,13 @@
 
 
 
-** Software Developer **
 
----
 
-## 
+## ME
 
 I am an ambitious Makers graduate with a strong foundation in the MERN stack, Python, and SwiftUI, complemented by hands-on experience in full-stack development. My curiosity, creativity, and commitment to continuous learning led me to pursue a career in Software Engineering. With a background in client-facing roles, I have developed good skills in needs assessment, communication, teamwork, and problem-solving. I am eager to bring these strengths to your tech team.
 
 
-
-<p align="center">
-  <a href="https://github.com/Fawaztarar">
-    <img src="github-mark.png" alt="GitHub" height="25" />
-  </a> &nbsp; &nbsp;
-  <a href="http://www.linkedin.com/in/Fawaztarar">
-    <img src="LI-Logo.png" alt="LinkedIn" height="25" />
-  </a> &nbsp; &nbsp;
-  
-</p>
 
 ---
 ## Projects
@@ -42,7 +35,7 @@ Boosky offers a vast collection of books across various genres. Features include
 
 **Technologies:** MongoDB, Express.js, React, Node.js, Clerk, Stripe, CSS, HTML
 
-### [Tarar To Do]([https://github.com/Fawaztarar/makers-007-engineering-project-1](https://github.com/Fawaztarar/SwiftUI_ToDoListApp))
+### [Tarar To Do](https://github.com/Fawaztarar/SwiftUI_ToDoListApp)
 **Tarar To Do Manager**
 
 iOS app for managing daily tasks, available on App Store
