@@ -1,6 +1,6 @@
 <h2 align="right">Fawaz Tarar</h2>
-<h2 align="right">Sodtware Engineer</h2>
-<a href="http://www.linkedin.com/in/Fawaztarar">
+<h4 align="right">Sodtware Engineer</h4>
+<a align="right" href="http://www.linkedin.com/in/Fawaztarar">
     <img src="LI-Logo.png" alt="LinkedIn" height="25" />
   </a> &nbsp; &nbsp;
   
