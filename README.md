@@ -1,20 +1,20 @@
 <h2 align="right">Fawaz Tarar</h2>
 <h4 align="right">Software Engineer</h4>  
 <p align="right">
-  <a href="mailto:fawaztarar@gmail.com">
-    <img src="2024638_email_mail_message_new_sms_icon.png" alt="Email" height="20" /> fawaztarar@gmail.com
+  <a href="mailto:fawaztarar@gmail.com" style="color: teal; text-decoration: none;">
+    fawaztarar@gmail.com
   </a>
   <br/>
-  <img src="9023670_phone_call_fill_icon.png" alt="Phone" height="20" /> +44 (0) 75 99 564 000
+  <span>+44 (0) 75 99 564 000</span>
   <br/>
-  <img src="352521_location_on_icon.png" alt="Location" height="20" /> London, UK
+  <span>London, UK</span>
 </p>
 
 
 
 
 
-## ME
+## About ME
 
 I am an ambitious Makers graduate with a strong foundation in the MERN stack, Python, and SwiftUI, complemented by hands-on experience in full-stack development. My curiosity, creativity, and commitment to continuous learning led me to pursue a career in Software Engineering. With a background in client-facing roles, I have developed good skills in needs assessment, communication, teamwork, and problem-solving. I am eager to bring these strengths to your tech team.
 
@@ -22,30 +22,39 @@ I am an ambitious Makers graduate with a strong foundation in the MERN stack, Py
 
 ---
 ## Projects
+### <a href="https://apps.apple.com/ca/app/taskbook/id6499077243" style="color: teal;">TaskBook</a>
 
+**TaskBook**
+Ios app for managing tasks,  Assign, collaborate, and track progress—all in one place.e
+**Features:**
+-  Authentication: Sign in with Apple and Google
+-  Collaborate with Other Users: Assign tasks, share updates, and work together on projects in real time.
+-  Comments & Likes: Comment on tasks and like updates to provide quick feedback and stay engaged.
+-  Task Prioritization: Set task priorities to focus on what matters most and get things done efficiently.
+-  Task Status Bar: Track progress visually with a simple status bar 
+-  Online Status: See when other users are online and ready to collaborate.
+-  Notifications: Stay notified on important task updates, comments, and changes
+**Technologies:**  SwiftUI, Firebase, Firestore
 
-### [Boosky](https://github.com/Fawaztarar/Booksy-frontend)
+### <a href="https://car-marketplace-7614e.firebaseapp.com" style="color: teal;">NextDrive</a>
+
+**NextDrive **
+Automobile Market Place
+
+**Technologies:**  React, Node.js, Drizzle OEM, Clerks, SendBird
+
+### <a href="https://github.com/Fawaztarar/Booksy-frontend" style="color: teal;">Boosky</a>
+
 **E-commerce Web Application**
 
 Boosky offers a vast collection of books across various genres. Features include user authentication, shopping basket, secure checkout, and a responsive design for seamless browsing on any device.
 
 **Technologies:** MongoDB, Express.js, React, Node.js, Clerk, Stripe, CSS, HTML
 
-### [Tarar To Do](https://github.com/Fawaztarar/SwiftUI_ToDoListApp)
-**Tarar To Do Manager**
 
-iOS app for managing daily tasks, available on App Store
 
-**Technologies:**  SwiftUI, Firebase, Firestore 
+### <a href="https://github.com/Fawaztarar/makers-007-engineering-project-1" style="color: teal;">MakersBnb</a>
 
-### [Acebook](https://github.com/Fawaztarar/acebook_MERN)
-**Social Networking Application**
-
-Inspired by Facebook, providing a platform for user connection and sharing.
-
-**Technologies:** MongoDB, Express.js, React, Node.js, SwiftUI, CSS
-
-### [MakersBnb](https://github.com/Fawaztarar/makers-007-engineering-project-1)
 **Property Listing Web Application**
 
 A platform allowing users to list and book properties.
